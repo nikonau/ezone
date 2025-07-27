@@ -1,0 +1,11 @@
+{
+  "name": "EZone",
+  "content_in_root": false,
+  "filename": "ezone",
+  "country": ["AU"],
+  "homeassistant": "2024.1.0",
+  "iot_class": "Local Polling",
+  "render_readme": true,
+  "zip_release": true,
+  "hacs": "1.6.0"
+}
