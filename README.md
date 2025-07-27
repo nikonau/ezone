@@ -98,4 +98,4 @@ mkdir -p custom_components/ezone
 - **Connection fails**: Verify IP address and network connectivity  
 - **No entities**: Check logs for errors, integration needs to poll first
 
-Your EZone controller at 192.168.100.39:2025 will be automatically discovered once the integration is added.
+Your EZone controller at <IP Address>:2025 will be automatically discovered once the integration is added.
